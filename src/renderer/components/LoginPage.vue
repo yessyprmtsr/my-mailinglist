@@ -17,7 +17,7 @@
 
 <script>
   export default {
-    name: 'landing-page',
+    name: 'LoginPage',
     methods: {
     }
   }
