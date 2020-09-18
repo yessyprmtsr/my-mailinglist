@@ -54,10 +54,12 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "googleapis": "^39.2.0",
     "imap": "^0.8.19",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "xoauth2": "^1.2.0"
   },
   "devDependencies": {
     "ajv": "^6.5.0",
